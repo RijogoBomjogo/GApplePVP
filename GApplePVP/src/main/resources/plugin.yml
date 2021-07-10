@@ -1,0 +1,9 @@
+name: GApplePVP
+version: ${project.version}
+author: DonsuzTurk
+main: tr.donsuzturk.gapplepvp.Main
+api-version: 1.17
+commands:
+  gapplepvp:
+    aliases:
+      - gap
